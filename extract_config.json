@@ -1,0 +1,38 @@
+{
+    "buyer_name": {
+        "type": "string",
+        "description": "Name of the buyer on contract"
+    },
+    "seller_name": {
+        "type": "string",
+        "description": "Name of the seller on contract"
+    },
+    "buyer_address": {
+        "type": "string",
+        "description": "Address of the buyer on contract"
+    },
+    "seller_address": {
+        "type": "string",
+        "description": "Address of the seller on contract"
+    },
+    "product_name": {
+        "type": "string",
+        "description": "Name of the product with any prefixes or suffixes"
+    },
+    "quantity": {
+        "type": "string",
+        "description": "Description of the quantity of the product"
+    },
+    "quality": {
+        "type": "string",
+        "description": "Description of the quality of the product in scientific terms"
+    },
+    "price_or_pricing": {
+        "type": "string",
+        "description": "Description of how the price is calculated"
+    },
+    "payment_terms": {
+        "type": "string",
+        "description": "Description of payment terms"
+    }
+}
